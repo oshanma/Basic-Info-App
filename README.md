@@ -1,55 +1,35 @@
-# Android Project 1 - *Name of App Here*
+## Basic Info Application 
 
-Submitted by: **Your Name Here**
+Writted by : Oshan Maharjan
 
-**Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+## Overview
 
-Time spent: **X** hours spent in total
+The Basic Info Display App is a sleek and minimalistic iOS application designed to showcase personal or professional information in an elegant interface. With a clean UI and smooth navigation, this app allows users to display their name, institution, and professional title. It’s perfect for presenting a digital business card or a simple profile overview on mobile devices.
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+- Clean and Professional UI: A simple, user-friendly interface focusing on readability and aesthetics.
+- Quick Navigation: Includes a prominent "View More" button that allows users to navigate through additional details seamlessly.
+- Responsive Design: Built to display information clearly on iOS devices of all screen sizes.
+- Customizable Background: Custom background color to match personal or institutional branding, creating a cohesive look.
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+## Technologies Used
+- Swift and SwiftUI for modern and dynamic iOS app development.
+- Auto Layout for responsive design across various iOS devices.
 
-The following **optional** features are implemented:
 
-- [ ] User can toggle betweeen different word lists
-- [ ] User can see the 'correctness' of their guess through colors on the word 
-- [ ] User sees a visual change after guessing the correct word
-- [ ] User can tap a 'Reset' button to get a new word and clear previous guesses
-- [ ] User will get an error message if they input an invalid guess
-- [ ] User can see a 'streak' record of how many words they've guessed correctly.
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![Kapture 2024-10-31 at 03 26 51](https://github.com/user-attachments/assets/47c3e03d-6cf5-4f05-8b2d-a267882310ff)
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with 
+Kap
 
 ## License!
 https://github.com/user-attachments/assets/60d82e11-0890-4f98-9909-1e85542f5b95
 
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Oshan Maharjan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
